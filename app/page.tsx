@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <>
-      <div className="min-h-screen bg-zinc-800 mt-24">
+      <div className="min-h-screen bg-zinc-800 mt-24 overflow-x-hidden">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-center mt-5 flex-col sm:items-center">
             <h1 className="text-5xl mb-10 text-center text-[#B8CE8E] md:text-2xl lg:text-5xl">
